@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>新闻</title>
 </head>
 <body>
     <h1>北方高温明日达鼎盛 京津冀多地地表温度将超60℃</h1>
