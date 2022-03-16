@@ -4,31 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <title>新闻</title>
-    <style>
-        body {
-            font-family: "微软雅黑";
-        }
-        h1 {
-            font-weight: normal;
-            font-size: 30px;
-            text-align: center;
-        }
-        div {
-            text-align: center;
-            font-size: 10px;
-            color: #888888;
-        }
-        a {
-            text-decoration: none;
-        }
-        p {
-            font-size: 15px;
-            text-indent: 2em;
-        }
-        .footer {
-            text-align: left;
-        }
-    </style>
 </head>
 <body>
     <h1>北方高温明日达鼎盛 京津冀多地地表温度将超60℃</h1>
